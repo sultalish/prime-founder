@@ -38,7 +38,9 @@ javac prime-founder.java
 ```
 5. Run the program:
 ```bash
-java prime-founder
+java prime-founder.java
+or
+java Solve
 ```
 
 ## Output of the program
